@@ -1,0 +1,117 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\User\Desktop\Coding\Projects\MovieComplex\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\User\Desktop\Coding\Projects\MovieComplex\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\User\Desktop\Coding\Projects\MovieComplex\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\User\Desktop\Coding\Projects\MovieComplex\app\src\main\AndroidManifest.xml:2:1-24:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\36dcafd94975d9de584813cb77b8c9da\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\dd2e84dd5d65e3488970d3bb20795744\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\e368aa7050149edf8cfbd8c811938ed5\AndroidManifest.xml:17:1-22:12
+MERGED from [io.reactivex:rxandroid:1.2.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\rxandroid-1.2.1.aar\ea6e10b86cca3c51b1e7fa212722c0de\AndroidManifest.xml:15:1-21:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\5dc92d6457bc941321e68f55abf0e0aa\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\ac8e73ea5c50710c7e2f8a65e935ecc6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\5ce295e4532717141d154f2c62cd858b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\f62ff7642bde905bcafda48e141027fd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\39dc851450fc963e643d692435a4f461\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\70355d54c3317b1287e690ac09aa835b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\40fd3731c1d31b567ddd8dedc229bcbf\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\9037abede96e67b014afa129f3ff13a0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\8691eaa1a076cc3030d9aaad3c7068c7\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\6e4525d30b9497443d781ccd4c14912d\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\User\Desktop\Coding\Projects\MovieComplex\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\User\Desktop\Coding\Projects\MovieComplex\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\User\Desktop\Coding\Projects\MovieComplex\app\src\main\AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from C:\Users\User\Desktop\Coding\Projects\MovieComplex\app\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from C:\Users\User\Desktop\Coding\Projects\MovieComplex\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\User\Desktop\Coding\Projects\MovieComplex\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\User\Desktop\Coding\Projects\MovieComplex\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\User\Desktop\Coding\Projects\MovieComplex\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from C:\Users\User\Desktop\Coding\Projects\MovieComplex\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\User\Desktop\Coding\Projects\MovieComplex\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\User\Desktop\Coding\Projects\MovieComplex\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from C:\Users\User\Desktop\Coding\Projects\MovieComplex\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\User\Desktop\Coding\Projects\MovieComplex\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\User\Desktop\Coding\Projects\MovieComplex\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\User\Desktop\Coding\Projects\MovieComplex\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\User\Desktop\Coding\Projects\MovieComplex\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from C:\Users\User\Desktop\Coding\Projects\MovieComplex\app\src\main\AndroidManifest.xml:6:22-76
+application
+ADDED from C:\Users\User\Desktop\Coding\Projects\MovieComplex\app\src\main\AndroidManifest.xml:8:5-22:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\dd2e84dd5d65e3488970d3bb20795744\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\dd2e84dd5d65e3488970d3bb20795744\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Users\User\Desktop\Coding\Projects\MovieComplex\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from C:\Users\User\Desktop\Coding\Projects\MovieComplex\app\src\main\AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from C:\Users\User\Desktop\Coding\Projects\MovieComplex\app\src\main\AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from C:\Users\User\Desktop\Coding\Projects\MovieComplex\app\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from C:\Users\User\Desktop\Coding\Projects\MovieComplex\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from C:\Users\User\Desktop\Coding\Projects\MovieComplex\app\src\main\AndroidManifest.xml:14:9-40
+activity#e.com.retrofitmovieproject.Activity.MainActivity
+ADDED from C:\Users\User\Desktop\Coding\Projects\MovieComplex\app\src\main\AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from C:\Users\User\Desktop\Coding\Projects\MovieComplex\app\src\main\AndroidManifest.xml:15:19-56
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\User\Desktop\Coding\Projects\MovieComplex\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\User\Desktop\Coding\Projects\MovieComplex\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from C:\Users\User\Desktop\Coding\Projects\MovieComplex\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\User\Desktop\Coding\Projects\MovieComplex\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from C:\Users\User\Desktop\Coding\Projects\MovieComplex\app\src\main\AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from C:\Users\User\Desktop\Coding\Projects\MovieComplex\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\User\Desktop\Coding\Projects\MovieComplex\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\User\Desktop\Coding\Projects\MovieComplex\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\36dcafd94975d9de584813cb77b8c9da\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\36dcafd94975d9de584813cb77b8c9da\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\dd2e84dd5d65e3488970d3bb20795744\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\dd2e84dd5d65e3488970d3bb20795744\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\e368aa7050149edf8cfbd8c811938ed5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\e368aa7050149edf8cfbd8c811938ed5\AndroidManifest.xml:20:5-44
+MERGED from [io.reactivex:rxandroid:1.2.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\rxandroid-1.2.1.aar\ea6e10b86cca3c51b1e7fa212722c0de\AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex:rxandroid:1.2.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\rxandroid-1.2.1.aar\ea6e10b86cca3c51b1e7fa212722c0de\AndroidManifest.xml:19:5-43
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\5dc92d6457bc941321e68f55abf0e0aa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\5dc92d6457bc941321e68f55abf0e0aa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\ac8e73ea5c50710c7e2f8a65e935ecc6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\ac8e73ea5c50710c7e2f8a65e935ecc6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\5ce295e4532717141d154f2c62cd858b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\5ce295e4532717141d154f2c62cd858b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\f62ff7642bde905bcafda48e141027fd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\f62ff7642bde905bcafda48e141027fd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\39dc851450fc963e643d692435a4f461\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\39dc851450fc963e643d692435a4f461\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\70355d54c3317b1287e690ac09aa835b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\70355d54c3317b1287e690ac09aa835b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\40fd3731c1d31b567ddd8dedc229bcbf\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\40fd3731c1d31b567ddd8dedc229bcbf\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\9037abede96e67b014afa129f3ff13a0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\9037abede96e67b014afa129f3ff13a0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\8691eaa1a076cc3030d9aaad3c7068c7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\8691eaa1a076cc3030d9aaad3c7068c7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\6e4525d30b9497443d781ccd4c14912d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\6e4525d30b9497443d781ccd4c14912d\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\User\Desktop\Coding\Projects\MovieComplex\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\User\Desktop\Coding\Projects\MovieComplex\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\User\Desktop\Coding\Projects\MovieComplex\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\User\Desktop\Coding\Projects\MovieComplex\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\User\Desktop\Coding\Projects\MovieComplex\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\User\Desktop\Coding\Projects\MovieComplex\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\User\Desktop\Coding\Projects\MovieComplex\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\User\Desktop\Coding\Projects\MovieComplex\app\src\main\AndroidManifest.xml

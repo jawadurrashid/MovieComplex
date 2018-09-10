@@ -17,6 +17,7 @@ import rx.Observer
 import rx.android.schedulers.AndroidSchedulers
 import rx.schedulers.Schedulers
 
+
 class MainActivity : AppCompatActivity() {
 
     val APIrequest = "https://api.themoviedb.org/3/movie/550?api_key=a0c12905ea6039a939f8330d7ee93364"
@@ -49,26 +50,16 @@ class MainActivity : AppCompatActivity() {
                         val statusCode = response?.code()
                         Log.d(TAG, "Top rated movie response: $statusCode")
                         val movies = response?.body()?.results
-                        recyclerView.adapter = MoviesAdapter(movies!!, R.layout.movie_item_holder, applicationContext)
+
+                        movies?.let{
+                            recyclerView.adapter = MoviesAdapter(it, R.layout.movie_item_holder, applicationContext)
+                        }
                     }
 
                     override fun onCompleted() {
                         Log.d(TAG, "Completed")
                     }
                 })
-
-//        call?.enqueue(object : retrofit2.Callback<MovieResponse> {
-//            override fun onFailure(call: Call<MovieResponse>?, t: Throwable?) {
-//                // Log error here since request failed
-//                Log.e(TAG, t.toString())
-//            }
-//
-//            override fun onResponse(call: Call<MovieResponse>?, response: Response<MovieResponse>?) {
-//                val statusCode = response?.code()
-//                val movies = response?.body()?.results
-//                recyclerView.adapter = MoviesAdapter(movies!!, R.layout.movie_item_holder, applicationContext)
-//            }
-//        })
     }
 
     companion object {
